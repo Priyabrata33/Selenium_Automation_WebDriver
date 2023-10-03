@@ -4,7 +4,7 @@ import time
 import csv
 
 driver = webdriver.Chrome()
-driver.get("http://result23.msbuexam.in/(S(it50ynziv2ofn03dnvqsyc1m))/Result/BEdResult.aspx")
+driver.get("urs URL")
 
 
 
